@@ -1,6 +1,6 @@
 # Better Workplace Conference
 
-__This concept website provides an overview of a fictional annual conference called the "Better Workplace Conference" which aims to foster better workplace culture within businesses.__
+This concept website provides an overview of a fictional annual conference called the "Better Workplace Conference" which aims to foster better workplace culture within businesses.
 
-#### > __Check it Out:__
+#### > __Click Below to Check it Out:__
 [![Better Workplace Conference](img/conference-responsive1.png)](https://aolaleye.github.io/better-workplace-conference/)
